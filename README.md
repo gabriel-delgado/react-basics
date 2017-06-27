@@ -1,24 +1,24 @@
-# react-basics
+# React Material
 A basic project to understand how is working React with material components
 
-##Based on
+## Based on
 Fountain React Generator
 https://github.com/FountainJS/generator-fountain-react
 
-##Prerequisites
+## Prerequisites
 * Node 6+
 * NPM 3+
 * Yeoman and fountain generator 
-  * npm install -g yo
-  * npm install -g generator-fountain-react
+  * `npm install -g yo`
+  * `npm install -g generator-fountain-react`
 
-##To build
-* npm install
-* npm run build
+## To build
+* `npm install`
+* `npm run build`
 
-##To run
-* npm run serve
+## To run
+* `npm run serve`
 * open browser and type the URL: http://localhost:3000
 
-##To create new components
-* yo fountain-react:component --name myNewComponent --dir components/myNewComponent
+## To create new components
+* `yo fountain-react:component --name myNewComponent --dir components/myNewComponent`
