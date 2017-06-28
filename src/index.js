@@ -7,6 +7,10 @@ import Login from './app/components/login/Login';
 
 import './index.scss';
 
+import injectTapEventPlugin from 'react-tap-event-plugin';
+
+injectTapEventPlugin();
+
 const App = () => (
   <MuiThemeProvider>
     <Login/>
